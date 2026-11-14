@@ -62,6 +62,14 @@
         <fqname>@1.1::IOffloadControl/default</fqname>
     </hal>
     <hal format="aidl">
+        <name>android.hardware.usb</name>
+        <fqname>IUsb/default</fqname>
+    </hal>
+    <hal format="aidl">
+        <name>android.hardware.usb.gadget</name>
+        <fqname>IUsbGadget/default</fqname>
+    </hal>
+    <hal format="aidl">
         <name>vendor.lineage.livedisplay</name>
         <fqname>IAdaptiveBacklight/default</fqname>
         <fqname>IDisplayColorCalibration/default</fqname>
