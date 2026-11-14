@@ -22,6 +22,7 @@ ro.vendor.epdg.support                           u:object_r:vendor_radio_prop:s0
 vendor.calls                                     u:object_r:vendor_radio_prop:s0
 
 # Sensors
+ro.factory.sensor.                               u:object_r:vendor_sensors_prop:s0
 vendor.sensor.file.permission                    u:object_r:vendor_sensors_prop:s0
 
 # Tee
